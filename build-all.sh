@@ -4,6 +4,7 @@
 # If directory ./server/static exists, it's asumed to contain TinodeWeb and then it's also
 # copied and archived.
 
+
 # Supported OSs: mac (darwin), windows, linux.
 goplat=( darwin darwin windows linux )
 
